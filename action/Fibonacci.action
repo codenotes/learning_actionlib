@@ -1,0 +1,8 @@
+#goal definition
+beaconSettings bSet
+---
+#result definition
+int32 statusCode
+---
+#feedback
+string feedbackString
